@@ -1,0 +1,4 @@
+﻿  Oath defence calculator.cpp
+c:\users\eskoo\source\repos\odc\oath defence calculator\oath defence calculator\oath defence calculator.cpp(104): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\eskoo\source\repos\odc\oath defence calculator\oath defence calculator\oath defence calculator.cpp(122): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Oath defence calculator.vcxproj -> C:\Users\eskoo\Source\Repos\ODC\Oath defence calculator\Debug\Oath defence calculator.exe
